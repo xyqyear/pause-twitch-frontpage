@@ -5,8 +5,8 @@
 // @match        https://www.twitch.tv/
 // @icon         https://www.google.com/s2/favicons?domain=twitch.tv
 // @author       xyqyear
-// @updateURL    https://cdn.jsdelivr.net/gh/xyqyear/pause-twitch-frontpage@main/userscript.js
-// @downloadURL  https://cdn.jsdelivr.net/gh/xyqyear/pause-twitch-frontpage@main/userscript.js
+// @updateURL    https://cdn.jsdelivr.net/gh/xyqyear/pause-twitch-frontpage@master/userscript.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/xyqyear/pause-twitch-frontpage@master/userscript.js
 // @homepage     https://github.com/xyqyear
 // @grant        none
 // @run-at       document-idle
